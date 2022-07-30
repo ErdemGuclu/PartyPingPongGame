@@ -8,7 +8,7 @@ A demo party pong game created with Unity
 
 
 
-## Ekran Görüntüleri
+## Screenshots
 
 ![Uygulama Ekran Görüntüsü](https://d1vg9wkrun3t3k.cloudfront.net/users/2972ef08-b7ab-4d52-a731-2c59d157567b/forever_files/b9bdada8-17bb-42ea-9e32-9b7e113fa2c2/original.jpg?format=jpg&width=800&height=369&quality=85)
 
